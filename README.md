@@ -13,7 +13,7 @@ SO THAT I can reliably retrieve them for later use
 ## Screenshot and Deployed Link 
 
 ![Screenshot](/assets/images/screenshot.png)
-![Deployed Link](https://glacial-shore-80212.herokuapp.com/)
+[Deployed Link](https://glacial-shore-80212.herokuapp.com/)
 
 ## Languages and Tools Used
 * ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
